@@ -5,11 +5,19 @@
 ## 1 Макет
 Адаптивный лендинг для риэлторской компании
 
+https://github.com/user-attachments/assets/a1ab17b3-036e-4ec4-81d9-81ac8494ac46
+
 ## 2 Макет
 Адаптивный лендинг для сети пиццерий
+
+https://github.com/user-attachments/assets/4bd95c78-be5c-4087-8baa-b8cb61909b76
 
 ## 3 Макет
 Адаптивный лендинг для фитнесс-клуба
 
+https://github.com/user-attachments/assets/cb561120-3d33-484d-ab48-33fdd918b6b6
+
 ## 4 Макет
 Адаптивный лендинг для строительной компании
+
+https://github.com/user-attachments/assets/f4405d13-2d09-4f7b-af7e-4bf4457a0ec7
